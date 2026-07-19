@@ -1,0 +1,6 @@
+{
+  "name": "LinkedIn Lead Generation Messaging",
+  "description": "AI-powered B2B prospecting and personalized LinkedIn outreach manager. Generates high-converting connection requests, pitches, and follow-ups based on prospect analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
