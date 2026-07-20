@@ -39,12 +39,4 @@ Rather than writing manual boilerplate, this platform was built using an AI-assi
 
 ## Getting Started
 
-### Prerequisites
-*   Node.js (v16 or higher)
-*   Google Gemini API Key
-*   [Add any other database or environment prerequisites here]
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/yourusername/ai-prospecting-manager.git](https://github.com/yourusername/ai-prospecting-manager.git)
