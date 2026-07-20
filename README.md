@@ -37,6 +37,5 @@ Rather than writing manual boilerplate, this platform was built using an AI-assi
 *   **Security & Governance:** Role-Based Access Control (RBAC), Enterprise Governance, System Telemetry & Logging.
 *   **Methodology:** Vibe Coding, Rapid Prototyping, Agile Product Development.
 
-## Getting Started
 
 
